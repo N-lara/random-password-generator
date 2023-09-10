@@ -12,6 +12,10 @@ N/A
 
 To be used by people to generate a random string for any purpose
 
+## Screenshot
+
+![The Password Generator application displays a red button to "Generate Password".](./Assets/03-javascript-homework-demo.png)
+
 ## Credits
 
 this website had a skeleton of html and css created by UTSA codng bootcamp but the functions in javascript that make it run were created by Noah Lara
